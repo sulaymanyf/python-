@@ -1,5 +1,5 @@
 库名称简介
-
+django-taggit 是一个简单易用的 Django 标签 app。把 "taggit" 加到在你项目中的 INSTALLED_APPS 中， 然后为你的 model 增加 TaggableManager 就完工了
 Chardet 字符编码探测器，可以自动检测文本、网页、xml的编码。
 
 colorama 主要用来给文本添加各种颜色，并且非常简单易用。
